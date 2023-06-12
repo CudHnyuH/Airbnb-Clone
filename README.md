@@ -8,7 +8,7 @@ Create Airbnb Clone using Next.js 13 App Router: React, Tailwind, Prisma, MongoD
 - Upload hình ảnh sử dụng Cloudinary CDN.
 - Form xác thực sử dụng react-hook-form.
 - Server error sử dụng react-toast.
-- Calendars sử dụng raect-date-range.
+- Calendars sử dụng react-date-range.
 - Page loading, empty state.
 - Tạo, hủy, xóa phòng được đặt.
 - Tự động tính tiền phòng theo lịch đã đặt.
